@@ -24,5 +24,5 @@ The script *attractor_Basin_generator.m* calculates a trajectory for every pixel
 <img src="https://github.com/Ntropic/Physics/blob/master/Magnetic_Pendulum_Attractor_Fractal/trajectory.png?raw=true" width="540" height="500" />
 </p>
 <p align="center">
-*A trajectory created by the script magnetic_pendulum.m*
+*A trajectory created by the script magnetic_pendulum.m ending at the blue magnet*
 </p>
