@@ -1,7 +1,7 @@
+# Newton Simulator
 <p align="center">
 <img src="https://github.com/Ntropic/Physics/blob/master/Newton_Simulator/Icon/Newton%20Simulator/PostProduktion%201.png?raw=true" width="900" height="300" />
 </p>
-# Newton Simulator
 ## Calculate trajectories of Newtonian many body systems.
 
 ## Warning: This was my first larg programming project, from long before I even studied physics.
